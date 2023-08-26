@@ -1,0 +1,1 @@
+console.log(one*2 + two2 + three*2)
